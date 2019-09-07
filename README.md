@@ -17,4 +17,11 @@ The event that really peaked my intrest in IT was in year 8 when I was able to a
 I choose to come to study at RMIT as it is online and because of constant appoitments it is alot easier to study online yo get my degree.
 By the end of my studies I hope to be prepared enough to join the workforce in the career path I have chosen and to hopefull know enough to actually create my app idea as it is something very important to me.
 
-https://www.seek.com.au/job/39820645?searchrequesttoken=adaa6bb1-93c4-4af8-978a-a495d31148a4&type=standard This would be my dream job. I have choosen this job because I have always enjoyed looking into the creative side of IT and I have worked as a Manager from 7 years so I have been able to work on my skills in leading a team. 
+#Ideal Job.
+
+https://www.seek.com.au/job/39820645?searchrequesttoken=adaa6bb1-93c4-4af8-978a-a495d31148a4&type=standard This would be my dream job. I have choosen this job because I have always enjoyed looking into the creative side of IT and I have worked as a Manager from 7 years so I have been able to work on my skills in leading a team. Also as a bonus at the bottom of the application says free coffee, And that is definetly the quickest way to my heart.
+
+#Personal Profile.
+
+
+
