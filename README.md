@@ -23,5 +23,13 @@ https://www.seek.com.au/job/39820645?searchrequesttoken=adaa6bb1-93c4-4af8-978a-
 
 # Personal Profile.
 
+My result in the Myers-Briggs test was INTJ. This was actually a hard conclusion to come to because when it comes to the first letter I found that I was both sides depending on my mood and what the situation called for at the time. The same could be said for the last letter as I can show qualities on both sides of that aswell.
+
+For the learning quiz I just got the results from the learning quiz we did on the RMIT website when we first enrol to study. For this my result was the Dynamo. Sumed down I feel like it is almost the same answer as the first quiz we did just for a diffrent thing. As the first test was about my personality which will directly feed into the way thatI study.
+
+
+
+
+
 
 
