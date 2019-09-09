@@ -1,5 +1,10 @@
 # My Profile!
 
+
+![11902435_10204790898347867_1448587329358617524_n](https://user-images.githubusercontent.com/54831858/64513583-74488c00-d31b-11e9-9b22-4abc9180fe87.jpg)
+
+
+
 Name: Joshua Britton.  
 
 Student Number:S3814227
@@ -19,7 +24,7 @@ By the end of my studies I hope to be prepared enough to join the workforce in t
 
 # Ideal Job.
 
-https://www.seek.com.au/job/39820645?searchrequesttoken=adaa6bb1-93c4-4af8-978a-a495d31148a4&type=standard This would be my dream job. I have choosen this job because I have always enjoyed looking into the creative side of IT and as I have worked as a Manager for 7 years I have already been able to work on my interpersonal skills.This job is definetly something I would have to work towards and not something i could step straight into as i dont have much programming knowledge yet and I would have to start at the bottom of the ladder. I think learning this dgree will really help me get my foot in the door. Also as a bonus at the bottom of the application says free coffee, And that is definetly the quickest way to my heart.
+https://www.seek.com.au/job/39820645?searchrequesttoken=adaa6bb1-93c4-4af8-978a-a495d31148a4&type=standard This would be my dream job. I have choosen this job because I have always enjoyed looking into the creative side of IT and as I have worked as a Manager for 7 years I have already been able to work on my interpersonal skills.This job is definetly something I would have to work towards and not something i could step straight into as i dont have much programming knowledge yet and I would have to start at a intern level and work my way up from there. I think acquiring my bachelors degree in Information Technology will really help me. Also as a bonus at the bottom of the application says free coffee, And that is definetly the quickest way to my heart.
 
 # Personal Profile.
 
@@ -38,18 +43,20 @@ I think when forming a group I should account for that by having a couple of str
 # Project Idea:
 
 Overview:
-My project I want to make is a health app for people in  wheelchair. Because you are confined to a wheelchair if you dont excersise you can gain weight which can lead to other health issues. Not only that but it actually takes alot of stamina and strength to get around in a chair by yourself with no assistance.
+My project I want to make is a health app for people in  wheelchair. Because you are confined to a wheelchair if you dont excersise you can gain weight which can lead to other health issues. Not only that but it actually takes alot of stamina and strength to get around in a wheelchair and complete day to day tasks by yourself with no assistance.
 
 Motorvation:
-My motorvation for this project is because I  was in a wheelchair for a small portion of time, And it really opened my eyes to a whole new world.  I want this app to be readily avalible to people that are in a wheelchair and people that arent so sure on how to improve their health and to help carers and loved ones be there and support the person.
+My motorvation for this project is because my eyes were opened as I was confinded to a wheelchair for a small portion of time, And it really opened my eyes to a whole new world and how different day to day tasks were that you take for granted. I hope to be able to make this app and will be happy knowing that I have helped improved atleast one persons life.
 
 Decription:
 I want to make a app that is readily avalible to everyone but is directed to people that have gone through a incidcent that has left them in a wheelchair. I want this app to have a few diffrent things to help. By having diffrent excersices programs for people in chairs to do. Mainly because its not something you think about until it happens and then you dont really have a clue what to do.
-From there I would like to improve the app in diffrent aspects to showing other everyday aspects that you have to learn i.e. Transfering to diffrent surfaces, Assembling and dissassembling your wheelchair, Cleaning and taking care of your wheelchair. To then also making a area for carers and loved ones so they can learn. 
-Could expand from there to meals because its been shown that a diet can help more then the excersise.
+From there I would like to improve the app in diffrent aspects to showing other everyday aspects that you have to learn i.e. Transfering to diffrent surfaces, Assembling and dissassembling your wheelchair, Cleaning and taking care of your wheelchair. To then also making a area for carers and loved ones so they can learn. Once i have a small group of people I would also love to be able to help them get in contact with other wheelchair users to help give tips or tricks to help each other.
 
 Tools and Technology:
 A computer with the correct programming applications.
+A program to create the application.
+A graphic design program to help create logo and app fonts.
+
 
 Skills Required:
 The ability to code in a language that apps will understand.
@@ -57,8 +64,11 @@ A physiotherapist/Personal Trainer for excersises.
 Occupational Therapsit to show the correct way for transfers and other day to day tasks.
 Nutrionist/Chef.
 Basic Knowledge of how to use a wheel chair and the limitations that can come with that.
+Graphic Designer.
 
 Outcome:
 I hope the outcome of this App to help raise awareness to people. Not only that but help people in a wheelchair live a more full and healthy life.
 
 # References
+
+
