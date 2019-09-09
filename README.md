@@ -33,17 +33,22 @@ For the learning quiz I just got the results from the learning quiz we did on th
 
 Overview (100 words):
 My project I want to make is a health app for people in  wheelchair. Because you are confined to a wheelchair if you dont excersise you can gain weight which can lead to other health issues. Not only that but it actually takes alot of stamina and strength to get around in a chair by yourself with no assistance.
+
 Motorvation (100 words):
 My motorvation for this project is because I  was in a wheelchair for a small portion of time, And it really opened my eyes to a whole new world.  I want this app to be readily avalible to people that are in a wheelchair and people that arent so sure on how to improve their health and to help carers and loved ones be there and support the person.
+
 Decription (500 words):
 I want to make a app that is readily avalible to everyone but is directed to people that have gone through a incidcent that has left them in a wheelchair. I want this app to have a few diffrent things to help. By having diffrent excersices programs for people in chairs to do. Mainly because its not something you think about until it happens and then you dont really have a clue what to do.
 From there I would like to improve the app in diffrent aspects to showing other everyday aspects that you have to learn i.e. Transfering to diffrent surfaces, Assembling and dissassembling your wheelchair, Cleaning and taking care of your wheelchair. To then also making a area for carers and loved ones so they can learn. 
 Could expand from there to meals because its been shown that a diet can help more then the excersise.
+
 Tools and Technology (100 words):
+
 Skills Required (100 words):
 Coding In Apps language.
 A physiotherapist for excersises.
 Occupational Therapsit to show the correct way for transfers and other day to day tasks.
 Nutrionist/Chef.
+
 Outcome (100 words):
 I hope the outcome of this App to help raise awareness to people. Not only that but help people in a wheelchair live a more full and healthy life.
