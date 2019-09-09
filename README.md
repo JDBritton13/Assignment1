@@ -27,3 +27,7 @@ My result in the Myers-Briggs test was INTJ. This was actually a hard conclusion
 
 For the learning quiz I just got the results from the learning quiz we did on the RMIT website when we first enrol to study. For this my result was the Dynamo. Sumed up I feel like it is almost the same answer as the first quiz we did just for a diffrent thing. As the first test was about my personality which will directly feed into the way that I study.
 
+
+
+#
+
