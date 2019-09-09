@@ -1,5 +1,4 @@
-# My Profile![20161023_151100](https://user-images.githubusercontent.com/54831858/64513539-54b16380-d31b-11e9-8b5c-0e577ea00fe0.jpg)
-
+# My Profile!
 
 Name: Joshua Britton.  
 
