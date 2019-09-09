@@ -1,6 +1,7 @@
 # My Profile
 
-Name: Joshua Britton.
+Name: Joshua Britton.                                        ![20161023_151100](https://user-images.githubusercontent.com/54831858/64513157-7cec9280-d31a-11e9-8d3b-75e728040493.jpg)
+
 
 Student Number:S3814227
 
