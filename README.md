@@ -107,11 +107,8 @@ From there I would like to improve the app in different aspects to showing other
   
 
 Tools and Technology: 
-
 A computer with the correct programming applications. 
-
 A program to create the application. 
-
 A graphic design program to help create logo and app fonts. 
 
   
@@ -119,30 +116,26 @@ A graphic design program to help create logo and app fonts.
   
 
 Skills Required: 
-
 The ability to code in a language that apps will understand. 
-
 A physiotherapist/Personal Trainer for exercises. 
-
 Occupational Therapist to show the correct way for transfers and other day to day tasks. 
-
 Nutrionist/Chef. 
-
 Basic Knowledge of how to use a wheelchair and the limitations that can come with that. 
-
 Graphic Designer. 
-
-  
 
 Outcome: 
 
 I hope the outcome of this App to help raise awareness to people. Not only that but help people in a wheelchair live a more full and healthy life. 
 
-  
 
 # References 
 
- 
+Anon, (2019). [online] Available at: https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.png [Accessed 9 Sep. 2019].
+
+Psychometricinstitute.com.au. (2019). Personality test guide. [online] Available at: https://www.psychometricinstitute.com.au/Psychometric-Test-Guide/Personality-Test-guide.html [Accessed 10 Sep. 2019].
+
+YouTube. (2019). GitHub Readme Images Tutorial (screenshots in readmes). [online] Available at: https://youtu.be/hHbWF1Bvgf4 [Accessed 10 Sep. 2019].
+
 
   
 
