@@ -107,15 +107,14 @@ From there I would like to improve the app in different aspects to showing other
   
 
 Tools and Technology: 
+
 A computer with the correct programming applications. 
 A program to create the application. 
 A graphic design program to help create logo and app fonts. 
 
-  
-
-  
 
 Skills Required: 
+
 The ability to code in a language that apps will understand. 
 A physiotherapist/Personal Trainer for exercises. 
 Occupational Therapist to show the correct way for transfers and other day to day tasks. 
